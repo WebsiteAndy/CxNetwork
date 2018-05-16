@@ -51,5 +51,3 @@ function onPlayerStateChangeSam(event) {
 function onPlayerStateChangeMex(event) {
 	window.location.href = window.location.href + "mexican_andy.html";
 }
-
-
