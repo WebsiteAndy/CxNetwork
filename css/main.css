@@ -7,17 +7,13 @@
     cursor: pointer;
 }
 
-.container.single {
-	width:100% !important; 
-	margin-left:0 !important; 
-	max-width: none !important;
-}
-
 .single-video {
-	width:80%;
+	width: 100%;
 }
 
-.single-chat {
-	margin-left: 4px;
-	width:19%;
+.page-title {
+	font-family: Lobster;
+	font-size: 48px;
+	font-style: normal;
+	font-variant: normal;
 }
