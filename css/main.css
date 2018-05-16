@@ -6,3 +6,18 @@
     opacity: 0.25;
     cursor: pointer;
 }
+
+.container.single {
+	width:100% !important; 
+	margin-left:0 !important; 
+	max-width: none !important;
+}
+
+.single-video {
+	width:80%;
+}
+
+.single-chat {
+	margin-left: 4px;
+	width:19%;
+}
