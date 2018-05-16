@@ -1,0 +1,8 @@
+.stream-overlay {
+	width: 560px;
+    height: 315px;
+    position: absolute;
+    background: black;
+    opacity: 0.25;
+    cursor: pointer;
+}
