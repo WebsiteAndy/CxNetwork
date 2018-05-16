@@ -4,6 +4,10 @@ $( document ).ready(function() {
     	window.location.href= window.location.href + "ice_poseidon.html";
     })
 
+    $(function(){
+		$('.sidenav').sidenav();
+	});
+
 
 });
 
